@@ -1,0 +1,3 @@
+async function killOnePig(bot) {
+    // The function is about killing one pig using a stone sword. First, equip the stone sword in the hand. Next, explore the environment until finding the nearest pig within 32 blocks. Once a pig is found, kill it using the `killMob` function. Finally, send a chat message indicating that one pig has been killed.
+}
