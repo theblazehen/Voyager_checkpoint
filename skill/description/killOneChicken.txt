@@ -1,0 +1,3 @@
+async function killOneChicken(bot) {
+    // The function is about killing one chicken using a stone sword. First, equip the stone sword in the hand. Next, explore the environment until finding the nearest chicken within 32 blocks. Once a chicken is found, kill it using the `killMob` function. Finally, send a chat message indicating that one chicken has been killed.
+}
