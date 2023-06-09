@@ -1,0 +1,3 @@
+async function mineWoodLog(bot) {
+    // The function is about mining a wood log. It first finds a nearby wood log within a certain distance. If no log is found, it explores the environment until a log is found. Once a log is found, it mines the log.
+}
