@@ -1,0 +1,3 @@
+async function cookBeefInFurnace(bot) {
+    // The function is about cooking 3 beef in a furnace using coal as fuel. First, it explores the environment to find a suitable block to place the furnace on. Once a suitable block is found, it places the furnace on top of it. Then, it cooks the beef in the furnace using coal as fuel. Finally, it sends a chat message indicating that 3 beef have been cooked in the furnace.
+}
