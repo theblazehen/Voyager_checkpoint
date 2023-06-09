@@ -1,0 +1,3 @@
+async function craftWoodenSword(bot) {
+    // The function crafts a wooden sword using a crafting table. If the bot does not have a crafting table in the inventory, it mines a dark oak log, crafts dark oak planks, and then crafts a crafting table. It then finds a suitable block to place the crafting table on and places it. The function checks if the bot has enough dark oak planks and sticks in the inventory. If not, it mines dark oak logs and crafts dark oak planks, then crafts sticks. Finally, it crafts a wooden sword using the crafting table.
+}
