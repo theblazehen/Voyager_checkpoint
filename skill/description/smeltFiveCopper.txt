@@ -1,0 +1,3 @@
+async function smeltFiveCopper(bot) {
+    // The function is about smelting 5 copper ingots using a furnace and coal as fuel. First, check if the bot has 5 raw_copper in the inventory. If not, mine copper ores until there are 5 raw_copper in the inventory. Then, find a suitable block to place the furnace on and place the furnace on it. Finally, smelt the 5 raw_copper in the furnace using coal as fuel.
+}
