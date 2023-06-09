@@ -1,0 +1,3 @@
+async function craftIronPickaxe(bot) {
+    // The function crafts an iron pickaxe using a crafting table. If the bot does not have a crafting table in the inventory, it mines a dark oak log, crafts dark oak planks, and then crafts a crafting table. After placing the crafting table near the bot, it crafts an iron pickaxe using the crafting table.
+}
