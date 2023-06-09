@@ -1,0 +1,3 @@
+async function eatCookedPorkchop(bot) {
+    // The function is about eating a cooked porkchop if the bot's hunger is less than 20. If the cooked porkchop is available in the inventory, it is equipped in the bot's hand and consumed. If the bot's hunger is already full, the function will not eat the cooked porkchop.
+}
