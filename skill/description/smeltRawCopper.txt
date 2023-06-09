@@ -1,0 +1,3 @@
+async function smeltRawCopper(bot) {
+    // The function is about smelting 11 raw copper using a furnace and coal as fuel. First, it checks if there is a furnace in the inventory. If not, it crafts one using cobblestone. Then, it explores the environment to find a suitable block to place the furnace on. Once a suitable block is found, it places the furnace on it. Finally, it smelts 11 raw copper in the furnace using coal as fuel and saves the event of smelting 11 raw copper.
+}
