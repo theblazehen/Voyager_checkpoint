@@ -1,0 +1,3 @@
+async function cookPorkchops(bot) {
+    // The function is about cooking 2 porkchops in a furnace using coal as fuel. It first finds a suitable solid block to place the furnace on by exploring the environment. Then, it places the furnace on the suitable solid block. Finally, it cooks the porkchops in the furnace using coal as fuel and saves the event of cooking porkchops.
+}
