@@ -1,0 +1,3 @@
+async function craftTorches(bot) {
+    // The function is about crafting torches using a crafting table. If the bot does not have a crafting table in the inventory, it will mine a dark oak log, craft dark oak planks, and then craft a crafting table. After placing the crafting table near the bot, it will check if there are enough sticks and coal in the inventory. If not, it will mine dark oak logs and coal ore to collect the required materials. Finally, it will craft 4 torches using the crafting table.
+}
