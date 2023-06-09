@@ -1,0 +1,3 @@
+async function craftIronSword(bot) {
+    // The function crafts an iron sword using a crafting table and materials in the inventory. If there are not enough iron ingots or sticks, it mines iron ore and smelts it into iron ingots, and crafts sticks as needed. If there is no crafting table in the inventory, it crafts one. It then places the crafting table near the bot and crafts an iron sword using the crafting table.
+}
