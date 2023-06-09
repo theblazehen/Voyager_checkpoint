@@ -1,0 +1,3 @@
+async function killCaveSpiderWithAvailableSword(bot) {
+    // The function is about killing a cave spider with the best available sword (iron > stone > wooden). First, it equips the best available sword in the inventory. Then, it finds the nearest cave spider using `exploreUntil` function. Finally, it kills the cave spider using `killMob` function and saves the event of killing the cave spider.
+}
