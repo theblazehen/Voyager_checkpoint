@@ -1,0 +1,3 @@
+async function craftShield(bot) {
+    // The function crafts a shield by first mining 2 dark oak logs to get enough planks, then crafting 5 dark oak planks from the logs. It checks if there's a crafting table in the inventory, if not, it crafts one. The function then places the crafting table near the bot and crafts a shield using the crafting table. Finally, it sends a chat message indicating that a shield has been crafted.
+}
