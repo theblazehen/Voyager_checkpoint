@@ -1,0 +1,3 @@
+async function equipIronLeggings(bot) {
+    // The function equips the iron leggings in the legs armor slot if it is available in the bot's inventory.
+}
