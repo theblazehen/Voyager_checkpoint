@@ -1,0 +1,3 @@
+async function craftWoodenPlanks(bot) {
+    // The function crafts 4 wooden planks using 1 dark oak log. It checks if there is at least 1 dark oak log in the inventory. If there is, it crafts the wooden planks and saves the event. If there isn't, it sends a message saying there are not enough logs to craft wooden planks.
+}
