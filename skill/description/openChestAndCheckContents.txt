@@ -1,0 +1,3 @@
+async function openChestAndCheckContents(bot) {
+    // The function is about opening a chest at a specific position and checking its contents. It first moves the bot to the chest's position using `moveToChest` helper function. Then, it checks the items inside the chest using `checkItemInsideChest` helper function. Finally, it sends a chat message indicating that the chest has been checked.
+}
