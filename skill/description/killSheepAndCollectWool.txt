@@ -1,0 +1,3 @@
+async function killSheepAndCollectWool(bot) {
+    // The function is about killing the nearest sheep and collecting its wool. It equips the iron sword, finds the nearest sheep using `exploreUntil`, kills the sheep using `killMob` function, and collects the dropped wool by moving to the sheep's position using `bot.pathfinder.goto`.
+}
