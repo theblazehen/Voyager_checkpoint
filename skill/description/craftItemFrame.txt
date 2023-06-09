@@ -1,0 +1,3 @@
+async function craftItemFrame(bot) {
+    // The function crafts an item frame using a crafting table. It first calculates the number of sticks needed to craft the item frame and checks if there are enough dark oak logs in the inventory to craft the required sticks. If not, it mines the logs to get enough. Then it crafts the required sticks and checks if there is a crafting table in the inventory. If not, it crafts one. It places the crafting table near the bot and crafts the item frame using the crafting table. Finally, it sends a chat message indicating that an item frame has been crafted.
+}
