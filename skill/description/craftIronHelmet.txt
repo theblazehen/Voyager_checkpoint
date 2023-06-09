@@ -1,0 +1,3 @@
+async function craftIronHelmet(bot) {
+    // The function crafts an iron helmet using a crafting table and iron ingots. If the bot does not have a crafting table in the inventory, it crafts one using dark oak planks and places it near the bot. If the bot does not have enough iron ingots, it explores the environment until it finds iron ore, mines it, and smelts it into iron ingots. Finally, it crafts an iron helmet using the crafting table and saves the event of crafting the helmet.
+}
