@@ -1,0 +1,3 @@
+async function craftFishingRodWithTable(bot) {
+    // The function crafts a fishing rod using a crafting table. It checks if there are enough sticks and strings in the inventory, and if not, it mines oak logs and kills spiders to collect the necessary materials. If there is no crafting table in the inventory, it mines an oak log, crafts oak planks, and then crafts a crafting table. It then finds a suitable block to place the crafting table on and places it. Finally, it crafts a fishing rod using the crafting table.
+}
