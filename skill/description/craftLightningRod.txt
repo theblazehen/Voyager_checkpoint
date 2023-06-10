@@ -1,0 +1,3 @@
+async function craftLightningRod(bot) {
+    // The function crafts a lightning rod using a crafting table with 3 copper ingots and 2 sticks. If there is no crafting table in the inventory, it crafts one using oak planks. Then, it places the crafting table near the bot and crafts a lightning rod. Finally, it sends a chat message indicating that a lightning rod has been crafted.
+}
