@@ -1,0 +1,3 @@
+async function eatOneCookedMutton(bot) {
+    // The function is about eating one cooked mutton. If the bot's hunger is less than 20, it will find raw mutton and coal in the inventory. If raw mutton is not available, it will kill a sheep to obtain it. Then, it will find a suitable solid block to place the furnace on and place the furnace. After that, it will cook the raw mutton in the furnace using coal as fuel. Once the mutton is cooked, it will equip it in the bot's hand and consume it.
+}
