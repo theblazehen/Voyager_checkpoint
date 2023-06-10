@@ -1,0 +1,3 @@
+async function obtainWoodLogs(bot) {
+    // The function is about obtaining 2 oak logs. It checks if there are already enough oak logs in the inventory, and if so, it does nothing. If not, it looks for oak logs within a certain distance. If it finds oak logs, it mines 2 of them. If it doesn't find any oak logs, it explores the environment until it finds some, and then mines 2 of them. If it still can't find any oak logs, it reports that it couldn't find any.
+}
