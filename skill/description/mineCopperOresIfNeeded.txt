@@ -1,0 +1,3 @@
+async function mineCopperOresIfNeeded(bot) {
+    // The function checks the inventory for raw copper and mines copper ores if there are less than 5 raw copper. Once the required number of copper ores are mined, the function informs the user that the task is complete.
+}
