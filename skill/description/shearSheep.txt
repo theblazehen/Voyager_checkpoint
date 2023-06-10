@@ -1,0 +1,3 @@
+async function shearSheep(bot) {
+    // The function is about shearing a sheep. First, it equips the shears. Then, it finds the nearest sheep within a certain distance using `exploreUntil`. After finding the sheep, it goes to the sheep and uses the shears on it. Finally, it collects the dropped wool and sends a chat message.
+}
