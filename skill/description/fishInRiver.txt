@@ -1,0 +1,3 @@
+async function fishInRiver(bot) {
+    // The function is about fishing in a nearby water block using a fishing rod. First, equip the fishing rod in the hand. Then, find a water block within 32 blocks of the bot and go to it. Look at the water block and start fishing until a fish is caught. Once a fish is caught, send a chat message.
+}
