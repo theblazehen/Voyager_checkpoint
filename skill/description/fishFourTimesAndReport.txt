@@ -1,0 +1,3 @@
+async function fishFourTimesAndReport(bot) {
+    // The function is about fishing four times and reporting the number of fish caught and their types in the inventory. It equips the fishing rod and finds a water block using exploreUntil. Then, it goes to the water block and looks at it. After that, it fishes four times and stores the initial fish count. Finally, it calculates the number of fish caught after fishing four times and reports the number of fish caught and their types in the inventory.
+}
