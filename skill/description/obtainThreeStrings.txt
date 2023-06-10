@@ -1,0 +1,3 @@
+async function obtainThreeStrings(bot) {
+    // The function is about obtaining 3 strings in the inventory. First, check if the bot already has 3 strings. If not, equip the iron sword and use a while loop to explore and kill spiders until the bot has collected 3 strings. The function uses the `exploreUntil` and `killMob` helper functions to find and kill spiders. Once the bot has collected 3 strings, the function reports success.
+}
