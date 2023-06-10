@@ -1,0 +1,3 @@
+async function findAndKillHostileMob(bot) {
+    // The function is about equipping an iron sword and finding the nearest hostile mob within a certain distance using `exploreUntil`. Once a hostile mob is found, the bot kills it using `killMob` function and logs the name of the mob.
+}
