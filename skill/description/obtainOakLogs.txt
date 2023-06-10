@@ -1,0 +1,3 @@
+async function obtainOakLogs(bot) {
+    // The function is about obtaining 10 oak logs. It checks if there are already 10 oak logs in the inventory, and if so, it sends a message saying that there are enough logs. If there are not enough logs, it calculates how many more logs are needed and sends a message with that number. Then it mines the required number of oak logs using the `mineBlock` function and sends a message saying that it has obtained 10 oak logs.
+}
