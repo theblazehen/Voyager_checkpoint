@@ -1,0 +1,3 @@
+async function cookBeef(bot) {
+    // The function is about cooking 1 beef using a furnace and coal as fuel. First, it finds a suitable solid block to place the furnace on. Then, it places the furnace on the suitable solid block. Finally, it cooks the beef in the furnace using coal as fuel and saves the event of cooking 1 beef.
+}
