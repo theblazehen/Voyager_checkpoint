@@ -1,0 +1,3 @@
+async function eatOneCookedMutton(bot) {
+    // The function equips a cooked mutton in the bot's hand and consumes it, resulting in the bot eating one cooked mutton.
+}
