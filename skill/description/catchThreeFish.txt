@@ -1,0 +1,3 @@
+async function catchThreeFish(bot) {
+    // The function is about catching three fish using a fishing rod. First, equip the fishing rod in the hand. Then, find a water block near the bot and go to it. Look at the water block and fish three times. After each catch, report the number of fish caught.
+}
